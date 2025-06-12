@@ -48,6 +48,7 @@ svm_cat_dog_classifier/
 
 4. python main.py
 ```
+---
 
 ### 📊 Final Output
 Once you run main.py, the following will be printed:
