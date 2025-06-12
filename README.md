@@ -74,6 +74,7 @@ Sample Console Output
 [INFO] Evaluating model...
 
 Classification Report:
+
                precision    recall  f1-score   support
 
         Cat        0.87      0.84      0.85       250
